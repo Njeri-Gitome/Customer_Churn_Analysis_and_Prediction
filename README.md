@@ -4,3 +4,7 @@ Business Intelligence to understand Telco Customer Churn
 # Objectives
 - Understand reasons behind customer churn to form retention strategies
 - Develop dashboards and reports to monitor churn rates and provide actionable insights for business decision-makers.
+
+### Dataset source:
+https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113
+
