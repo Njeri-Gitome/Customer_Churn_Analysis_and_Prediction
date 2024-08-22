@@ -12,8 +12,8 @@ In addition, building predictive models to forecast future churners, driving str
 ![etl framework](https://github.com/Njeri-Gitome/Customer_Churn_Analysis_and_Prediction/blob/main/etl%20framework.png)
 - **CSV file**: source file.
 - **SQL Server Management Studio** : Perform transformation and load the data.
-- **SQL Server Database** :final dataset was loaded and it hosts the dtatawarehouse, tables & views for final usage.
+- **SQL Server Database** :final dataset was loaded and it hosts the datawarehouse, tables & views for final usage.
 ### Dataset source:
 https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113
 
-3
+
