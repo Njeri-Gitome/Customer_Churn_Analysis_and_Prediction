@@ -8,6 +8,11 @@ In addition, building predictive models to forecast future churners, driving str
 - Identify a method to predict future churners.
 - Develop dashboards and reports to monitor churn rates and provide actionable insights for business decision-makers.
 
+## Extract Transform Load (ETL) Framework 
+- **CSV file**: source file.
+- **SQL Server Management Studio** : Perform transformation and load the data.
+- **SQL Server Database** :final dataset was loaded and it hosts the dtatawarehouse, tables & views for final usage.
 ### Dataset source:
 https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113
 
+3
