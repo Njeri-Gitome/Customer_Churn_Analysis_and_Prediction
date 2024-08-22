@@ -1,11 +1,11 @@
-# Telco Customer Churn Business Intelligence
-Business Intelligence to understand Telco Customer Churn
+# Customer Churn Analysis and Prediction for Telecom Industry
+The project involves developing an ETL process in a database and a Power BI dashboard to analyze telecom customer data, enabling detailed study of churner profiles and identification of key areas for targeted marketing campaigns.
+In addition, building predictive models to forecast future churners, driving strategic decision-making to reduce customer attrition.
 
-## Context
-This sample data tracks a fictional telco company's churn based on a variety of possible factors
-
-# Objectives
-- Understand reasons behind customer churn to form retention strategies
+## Objectives
+- Analyze Customer Data.
+- Study churner profile & identify areas for implementing marketing campaigns.
+- Identify a method to predict future churners.
 - Develop dashboards and reports to monitor churn rates and provide actionable insights for business decision-makers.
 
 ### Dataset source:
