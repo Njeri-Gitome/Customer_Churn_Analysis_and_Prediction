@@ -16,4 +16,5 @@ In addition, building predictive models to forecast future churners, driving str
 ### Dataset source:
 https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113
 
-
+## Source Code
+- [Extraction and Transformation](https://github.com/Njeri-Gitome/Customer_Churn_Analysis_and_Prediction/blob/main/Exploration.sql)
