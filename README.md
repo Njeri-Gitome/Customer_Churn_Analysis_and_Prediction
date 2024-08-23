@@ -10,8 +10,13 @@ In addition, building predictive models to forecast future churners, driving str
 - **CSV file**: source file.
 - **SQL Server Management Studio** : Perform transformation and load the data.
 - **SQL Server Database** :final dataset was loaded and it hosts the datawarehouse, tables & views for final usage.
-### Dataset source:
-https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113
+## Data Model
+!["Power BI Data Model"](https://github.com/Njeri-Gitome/Customer_Churn_Analysis_and_Prediction/blob/main/Data%20Model.PNG)
+
+## Dataset Used:
+This sample data tracks a telco company's customer churn based on a variety of possible factors. The churn column indicates whether or not the customer left within the last month. 
+
+Dataset Source: https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113
 
 ## Source Code
 - [Extraction and Loading](https://github.com/Njeri-Gitome/Customer_Churn_Analysis_and_Prediction/blob/main/Exploration.sql)
