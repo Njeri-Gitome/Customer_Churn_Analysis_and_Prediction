@@ -8,6 +8,9 @@ In addition, building predictive models to forecast future churners, driving str
 - Identify a method to predict future churners.
 - Develop dashboards and reports to monitor churn rates and provide actionable insights for business decision-makers.
 
+## Customer Churn Dashboard Visualization
+![Dashboard](https://github.com/Njeri-Gitome/Customer_Churn_Analysis_and_Prediction/blob/main/Power%20BI%20visualization.PNG)
+
 ## Extract Transform Load (ETL) Framework 
 ![etl framework](https://github.com/Njeri-Gitome/Customer_Churn_Analysis_and_Prediction/blob/main/etl%20framework.png)
 - **CSV file**: source file.
